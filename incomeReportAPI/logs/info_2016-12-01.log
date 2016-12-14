@@ -1,0 +1,65 @@
+2016-12-01 17:12:55,597 | INFO  | pool-1-thread-20 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | 
+2016-12-01 17:12:55,600 | ERROR | pool-1-thread-20 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 17:13:04,457 | INFO  | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodType=123&startDate=2016:11:29&endDate=2016:11:29
+2016-12-01 17:14:52,744 | INFO  | pool-1-thread-14 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:14:55,036 | INFO  | pool-1-thread-7  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:14:55,037 | ERROR | pool-1-thread-7  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 17:15:02,686 | INFO  | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:15:02,686 | ERROR | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 17:15:09,019 | INFO  | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:15:09,020 | ERROR | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 17:15:46,076 | INFO  | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:29:06,102 | INFO  | pool-1-thread-8  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:29:06,279 | ERROR | pool-1-thread-8  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 17:29:36,372 | INFO  | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:29:36,547 | ERROR | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 17:30:08,956 | INFO  | pool-1-thread-10 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:30:15,296 | ERROR | pool-1-thread-10 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 17:30:39,195 | INFO  | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 17:31:07,497 | ERROR | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 17:32:54,424 | INFO  | pool-1-thread-19 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29\
+2016-12-01 17:37:03,570 | INFO  | pool-1-thread-11 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:27:07,589 | INFO  | pool-1-thread-9  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:27:18,568 | INFO  | pool-1-thread-11 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:27:18,596 | ERROR | pool-1-thread-11 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 18:27:20,995 | INFO  | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:27:20,998 | ERROR | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 18:27:25,639 | INFO  | pool-1-thread-14 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:27:25,642 | ERROR | pool-1-thread-14 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 18:27:29,031 | INFO  | pool-1-thread-12 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:27:29,034 | ERROR | pool-1-thread-12 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 18:28:09,325 | INFO  | pool-1-thread-19 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:28:17,595 | INFO  | pool-1-thread-14 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:28:17,595 | ERROR | pool-1-thread-14 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | state should be: open
+2016-12-01 18:30:46,583 | ERROR | main             | IncomeReportApiJob               | n.jobschedule.IncomeReportApiJob   38 | Address already in use: bind
+2016-12-01 18:31:02,130 | INFO  | pool-1-thread-9  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:31:11,033 | INFO  | pool-1-thread-20 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=pdayout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:31:17,949 | INFO  | pool-1-thread-10 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:32:36,228 | INFO  | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:36:45,357 | INFO  | pool-1-thread-19 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:37:07,634 | INFO  | pool-1-thread-12 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:45:12,011 | INFO  | pool-1-thread-17 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:46:00,710 | INFO  | pool-1-thread-16 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:47:03,886 | INFO  | pool-1-thread-18 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:47:14,488 | INFO  | pool-1-thread-16 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:48:11,095 | INFO  | pool-1-thread-16 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:48:11,103 | INFO  | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:52:49,505 | INFO  | pool-1-thread-20 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 18:53:15,730 | INFO  | pool-1-thread-10 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 18:54:17,832 | INFO  | pool-1-thread-8  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 18:54:37,486 | INFO  | pool-1-thread-12 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 18:55:23,338 | INFO  | pool-1-thread-19 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 18:56:35,926 | INFO  | pool-1-thread-14 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 19:02:55,553 | INFO  | pool-1-thread-12 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | flag=advertiser&start_date=2016-11-29&end_date=2016-11-29
+2016-12-01 19:02:55,554 | ERROR | pool-1-thread-12 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 19:03:31,003 | INFO  | pool-1-thread-7  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | flag=advertiser&start_date=2016-11-29&end_date=2016-11-29
+2016-12-01 19:03:31,003 | ERROR | pool-1-thread-7  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 19:04:43,429 | INFO  | pool-1-thread-16 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=advertiser&enddate=2016%3A10%3A10&startdate=2016%3A10%3A10
+2016-12-01 19:04:43,431 | ERROR | pool-1-thread-16 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   41 | 
+2016-12-01 19:05:16,189 | INFO  | pool-1-thread-19 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=advertiser&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 19:05:39,941 | INFO  | pool-1-thread-15 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=advertiser&enddate=2016%3A11%3A29&startdate=2016%3A11%3A29
+2016-12-01 19:09:25,058 | INFO  | pool-1-thread-13 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 19:09:29,454 | INFO  | pool-1-thread-10 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=123&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 19:09:34,781 | INFO  | pool-1-thread-11 | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 19:52:28,175 | INFO  | pool-1-thread-7  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
+2016-12-01 19:55:30,557 | INFO  | pool-1-thread-8  | CampaignOnlineServlet            | n.servlets.CampaignOnlineServlet   29 | methodtype=payout&startdate=2016:11:29&enddate=2016:11:29
